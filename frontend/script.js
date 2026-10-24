@@ -1,5 +1,5 @@
 
-const API_URL = "https://my-project-rahim.onrender.com";
+const API_URL = "https://student-result-management-system-1e7i.onrender.com";
 const STUDENTS_URL = `${API_URL}/students/`;
 
 const form = document.getElementById("studentForm");
